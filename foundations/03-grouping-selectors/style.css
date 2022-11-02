@@ -1,0 +1,13 @@
+.do{
+    background-color: black;
+    color: white;
+}
+
+.undo{
+    background-color: yellow;
+}
+
+.do, .undo{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
