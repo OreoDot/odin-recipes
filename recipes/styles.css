@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    -webkit-filter: blur(0); filter: blur(0);
+}
+
+.line{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+   
+}
+
+.line1{
+    color: yellow;
+}
+
+.major{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(backgroundchef.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    image-rendering: optimizeQuality;
+}
+
+ul{
+    align-items: center;
+}
+
+ul li a{
+    color: #fff;
+    font-size: 40px;
+}
+
+.logo{
+    background: grey;
+    font-size: 80px;
+    color: yellow;
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.btn1{
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+.btn2{
+    font-weight: bold;
+    background-color: green;
+    border-radius: 15px;
+}
+
+.btn1, .btn2{
+    font-size: 25px;
+    
+}
